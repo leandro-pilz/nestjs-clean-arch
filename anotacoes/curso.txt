@@ -1,0 +1,2 @@
+//Adicionar o fastify melhora performac
+npm i --save @nestjs/platform-fastify
