@@ -1,2 +1,8 @@
 //Adicionar o fastify melhora performac
 npm i --save @nestjs/platform-fastify
+
+//Adicionar o pacote para criar variaveis de ambiente
+npm i @nestjs/config
+ --> Criar módulo personalizado para enviroments
+     nest g module shared/infrastructure/env-config
+     nest g service shared/infrastructure/env-config
