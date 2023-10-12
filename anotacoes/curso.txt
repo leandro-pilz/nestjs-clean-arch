@@ -10,3 +10,6 @@ npm i @nestjs/config
 
 //Biblioteca faker para gerar dados de teste
 npm install -D @faker-js/faker
+
+//Biblioteca de uuid
+npm i uuid -D @types/uuid
