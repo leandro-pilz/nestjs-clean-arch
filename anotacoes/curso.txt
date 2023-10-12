@@ -6,3 +6,7 @@ npm i @nestjs/config
  --> Criar módulo personalizado para enviroments
      nest g module shared/infrastructure/env-config
      nest g service shared/infrastructure/env-config
+
+
+//Biblioteca faker para gerar dados de teste
+npm install -D @faker-js/faker
